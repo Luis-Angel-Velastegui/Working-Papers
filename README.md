@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Angel Velastegui-Martinez</h1>
-<h3 align="center">I like use econometric's tools in order to analyze public policys</h3>
+<h3 align="center">I like use econometric's tools in order to analyze public policies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luis-angel-velastegui&label=Profile%20views&color=0e75b6&style=flat" alt="luis-angel-velastegui" /> </p>
 
